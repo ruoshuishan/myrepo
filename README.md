@@ -2,6 +2,4 @@
 Repository for testing my Git/GitHub setup
 A line I wrote on my local computer  
 Test line
-1
-aaa
-This is a line from RStudio
+RStudio
