@@ -2,5 +2,3 @@
 Repository for testing my Git/GitHub setup
 Hello World!
 line from GH
-111222
-test for merge conflict again
