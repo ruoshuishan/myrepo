@@ -2,4 +2,3 @@
 Repository for testing my Git/GitHub setup
 Hello World!
 line from GH
-see how to fix conflicts
