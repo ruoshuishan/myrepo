@@ -2,4 +2,4 @@
 Repository for testing my Git/GitHub setup
 Hello World!
 line from GH
-see workflow
+see how to fix conflicts
