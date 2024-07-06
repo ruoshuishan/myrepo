@@ -4,4 +4,4 @@ Hello World!
 line from GH
 branch: locally merge
 branch: pull requests on 
-create merge conflicts
+fix conflicts
